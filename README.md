@@ -1,1 +1,3 @@
 # Handwritten-Recognition-System
+
+The proposed system concentrates predominantly on writing difficulties. The algorithm recognizes mistakes in their writing and decodes their handwriting. The handwriting recognition system reads the text by analyzing the handwritten characters. The recognized word will be compared by the system with the dataset. It verifies spelling correctness, order, and space. Following correction, terms with comparable spelling arrangements will be displayed. With the use of this suggested approach, individuals will be able to write distinctly, arrange their ideas, select words wisely, spell terms correctly, and fix some of their writing mistakes.
